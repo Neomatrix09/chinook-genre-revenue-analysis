@@ -24,7 +24,7 @@ Ranking each country's #1 genre showed Rock winning everywhere — not a useful 
 Rock is dominant everywhere and needs no promotional push. Latin, as the clear secondary preference in the store's largest markets, is a strong candidate for cross-promotion ("customers also bought") rather than treating all non-Rock genres as equally low-priority. Catalog depth for Latin would be a natural next question before considering inventory expansion. Smaller markets (e.g. Czech Republic, 8 tracks sold) had too few transactions for reliable conclusions and were excluded from genre-preference claims.
 
 ## Files
-- `chinook.sqlite` — the database
+- `chinook.db` — the database
 - `queries.sql` — all analysis queries, in order, with comments
 
 ## Tools
